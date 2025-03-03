@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="WorkspaceSettings">
+    <project name="api-gateway" path="$PROJECT_DIR$/../../api-gateway-1">
+      <vcs id="Git" remoteUrl="https://github.com/feature-tracker/api-gateway.git" />
+    </project>
+    <project name="notification-service-1" path="$PROJECT_DIR$/../../notification-service-1">
+      <vcs id="Git" remoteUrl="https://github.com/feature-tracker/notification-service.git" />
+    </project>
+    <project name="docker-infra" path="$PROJECT_DIR$/../../docker-infra">
+      <vcs id="Git" remoteUrl="https://github.com/feature-tracker/docker-infra.git" />
+    </project>
+    <project name="maven-4" path="$PROJECT_DIR$/../../maven-4" />
+    <project name="untitled" path="$PROJECT_DIR$/../../maven-4/untitled" />
+    <project name="untitled3" path="$PROJECT_DIR$/../../maven-4/untitled3" />
+    <project name="maven-simple" path="$PROJECT_DIR$/../../maven-4/maven-simple" />
+    <project name="untitled2" path="$PROJECT_DIR$/../../maven-4/untitled2" />
+    <project name="untitled2" path="$PROJECT_DIR$/../../maven-4/untitled2" />
+    <project name="untitled1" path="$PROJECT_DIR$/../../maven-4/untitled1" />
+    <project name="untitled1" path="$PROJECT_DIR$/../../maven-4/untitled1" />
     <option name="workspace" value="true" />
   </component>
 </project>
